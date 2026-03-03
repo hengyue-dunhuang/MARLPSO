@@ -1,4 +1,4 @@
-# MARLPSO: Multi-Agent Reinforcement Learning Particle Swarm Optimization
+# Emergent collective intelligence via multi-agent reinforcement learning in particle swarm optimization
 
 MARLPSO is a hybrid optimization framework that combines Multi-Agent Reinforcement Learning (MARL) with Particle Swarm Optimization (PSO). It uses RL agents to dynamically control perturbation mechanisms, helping particles escape local optima and improve convergence on complex, high-dimensional optimization problems.
 
