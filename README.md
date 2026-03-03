@@ -32,6 +32,7 @@ It is recommended to use a Conda environment. The code is tested with the follow
 - Gymnasium 1.1.1
 - PyTorch 2.9.1
 - Opfunu 1.0.1 (for CEC functions)
+- setuptools<71.0.0
 
 To install dependencies:
 
