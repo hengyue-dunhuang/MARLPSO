@@ -1,5 +1,18 @@
 # Emergent collective intelligence via multi-agent reinforcement learning in particle swarm optimization
 
+> **📢 Notice to Reviewers**
+> 
+> **Supplementary Materials for Manuscript [SWEVO-D-26-00584]**
+>
+> Due to a technical oversight during the initial submission to the Elsevier system, the supplementary PDF (containing detailed experimental data) was unfortunately omitted from the official portal. 
+>
+> Since the manuscript is already in the **"Under Review"** stage, to ensure a smooth and comprehensive review process without further delay, we have uploaded the missing document here:
+> 
+> 📄 **[Download Supplementary Material (PDF)](./SupplementaryMaterial.pdf)** 
+> We sincerely apologize for this administrative error and appreciate your time in reviewing our work.
+>
+> ---
+
 MARLPSO is a hybrid optimization framework that combines Multi-Agent Reinforcement Learning (MARL) with Particle Swarm Optimization (PSO). It uses RL agents to dynamically control perturbation mechanisms, helping particles escape local optima and improve convergence on complex, high-dimensional optimization problems.
 
 This repository provides the core environment, CEC benchmark function interfaces, and training scripts to reproduce MARLPSO.
